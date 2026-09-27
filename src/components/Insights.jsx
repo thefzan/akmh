@@ -3,9 +3,9 @@ import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 
 const Insights = () => {
   const flyers  = [
-    "../src/assets/hospital-1.png",
-    "../src/assets/hospital-2.png",
-    "../src/assets/hospital-3.png",
+    "Latest/hospital-1.png",
+    "Latest/hospital-2.png",
+    "Latest/hospital-3.png",
   ];
 
   const [current, setCurrent] = useState(0);

@@ -5,7 +5,7 @@ const Insights = () => {
   const flyers  = [
     "/latest/hospital-1.png",
     "/latest/hospital-2.png",
-    "https://images.pexels.com/photos/1070534/pexels-photo-1070534.jpeg?cs=srgb&dl=pexels-steve-1070534.jpg&fm=jpg",
+    "/latest/hospital-3.png",
   ];
 
   const [current, setCurrent] = useState(0);
